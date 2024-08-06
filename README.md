@@ -1,37 +1,67 @@
-readme.md da semana 1.
+Observações Gerais: 
 
-Lista dos comandos git aprendidos: 
+Siga o seguinte padrão para o nome do repositório: 
 
+primeiroNome-sobreNome-estudos 
 
--git config --global user.name "Seu Nome": Configura o nome de usuário;
+    Exemplo: edmar-gabriel-estudos 
+    
+Tenha zelo por esse repositório e mantenha-o privado, pois ele te acompanhará em toda sua jornada de estudo. 
 
--git config --global user.email "seu-email@example.com": Configura o email;
+Adicione o Edmar como colaborador. Em breve, será solicitado para adicionar os outros instrutores. 
 
--git init: Inicializa um novo repositório Git;
+Email: edmarmiller@hotmail.com 
 
--git status: Verifica o status dos arquivos no repositório;
+Crie um diretório por semana, até a semana 12, seguindo o seguinte padrão: 
 
--git log: Exibe o histórico de commits;
+sprint-01-semana-01 
 
--git log --oneline: Mostra o histórico de commits com uma visualização mais compacta;
+  README.md 
+  
+  outra-pasta-qualquer 
+ 
+sprint-01-semana-02 
 
--git add <arquivo>: Adiciona um arquivo específico;
+  README.md 
+  
+  outra-pasta-qualquer 
+  
+Entregável da Semana 1: 
 
--git add .: Adiciona todos os arquivos modificados;
+1.	Instalação e Configuração do Git
 
--git commit -m "Mensagem do commit": faz o commit das alterações;
+2.	Criação de um Repositório Local 
 
--git revert HEAD: reverte para o commit mais recente;
+3.	Adição de Arquivos e Commit 
 
--git checkout -- <arquivo>: Desfaz alterações antes de fazer o commit;
+        o Crie um arquivo README.md 
 
--git branch <nome-da-branch>: cria uma nova branch;
+4.	Criação de uma Conta no GitHub e Repositório Remoto 
 
--git checkout <nome-da-branch>: troca para uma branch existente;
+        o	Crie uma conta no GitHub, crie um novo repositório e adicione-o como remoto ao repositório local. 
 
--git checkout -b <nome-da-branch>: cria uma nova branch e troca para ela;
+5.	Push do Repositório Local para o GitHub 
 
+        o	Envie os commits locais para o repositório remoto no GitHub. 
 
+6.	Criação e Mudança de Branches 
 
+        o	Crie uma nova branch e mude para ela. 
 
+        o	Adicione esse documento ao README.md. 
 
+7.	Merge de Branches 
+
+        o	Faça merge de uma branch de desenvolvimento com a branch principal. 
+
+8.	Configuração de um Arquivo README 
+
+        o	Adicione uma seção ao README.md com uma lista dos principais comandos do Git aprendidos. 
+
+9.	Criação de um Pull Request 
+
+        o	Faça alterações em uma branch, envie para o repositório remoto e abra um pull request no GitHub. 
+
+10.	Revisão de Código e Merge de Pull Request 
+
+        o	Revise um pull request, aprove ou solicite mudanças, e faça o merge na branch principal. 
