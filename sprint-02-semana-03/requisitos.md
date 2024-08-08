@@ -26,8 +26,8 @@
 
 ### Confiabilidade: *(Estimativa: 3 dias)*
 
-- O site deve ter uma disponibilidade de 99.9%, ou seja, não deve estar fora do ar por mais de 8.76 horas por ano. 
-- O sistema deve ser capaz de se recuperar de falhas em menos de 2 minutos. 
+- O site deve ter uma disponibilidade de 90% do tempo.
+- O sistema deve ser capaz de se recuperar de falhas em menos de 5 minutos. 
 
 ### Usabilidade: *(Estimativa: 6 dias)*
 
