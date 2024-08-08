@@ -22,7 +22,7 @@
 ### Desempenho: *(Estimativa: 5 dias)*
 
 - A página deve carregar em menos de 2 segundos em conexões de banda larga. 
-- O sistema deve suportar até 10.000 usuários simultâneos sem degradação perceptível de desempenho. 
+- O sistema deve suportar uma boa quantidade de usuários simultâneos sem degradação perceptível de desempenho. 
 
 ### Confiabilidade: *(Estimativa: 3 dias)*
 
