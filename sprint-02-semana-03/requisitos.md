@@ -32,4 +32,3 @@
 ### Usabilidade: *(Estimativa: 6 dias)*
 
 - A interface do usuário deve ser intuitiva e fácil de navegar para todos os grupos de usuários. 
-- O site deve ser acessível e compatível com as diretrizes WCAG 2.1 AA. 
