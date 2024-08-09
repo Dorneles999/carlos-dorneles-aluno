@@ -1,4 +1,6 @@
-# Observações Gerais
+# Sprint 02 - Semana 03
+
+## Observações Gerais
 
 - Siga o seguinte padrão para o nome do repositório: `primeiroNome-sobreNome-estudos`. 
   - Exemplo: `edmar-gabriel-estudos`
