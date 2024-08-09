@@ -1,3 +1,3 @@
-README da semana 2
+# Sprint 01 - Semana 02
 
-Carlos Dorneles adiciona o Luiz Caldeira
+Dupla formada por Carlos Dorneles e Luiz Caldeira
